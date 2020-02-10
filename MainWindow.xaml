@@ -1,0 +1,60 @@
+﻿<Window x:Class="WPFDB_Server.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFDB_Server"
+        mc:Ignorable="d" 
+        Background="Gray"
+        Title="Monster Spawn Manager" Height="450" Width="540">
+    <Grid>
+        <Label Content="Location" FontWeight="Bold"  HorizontalAlignment="Left" Margin="22,10,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" Width="150" RenderTransformOrigin="-2.832,-3.34"/>
+        <ListBox Name="ListLocation" SelectionChanged="ListLocation_SelectionChanged" HorizontalAlignment="Left" Height="184" Margin="22,41,0,0" VerticalAlignment="Top" Width="150" BorderThickness="2" BorderBrush="Black">
+            <ListBox.Effect>
+                <DropShadowEffect Color="DarkGray"/>
+            </ListBox.Effect>
+            <ListBox.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="3"/>
+                </Style>
+            </ListBox.Resources>
+        </ListBox>
+        
+        <Label Content="Monsters" FontWeight="Bold" HorizontalAlignment="Left" Margin="188,10,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" Width="150" RenderTransformOrigin="-2.832,-3.34"/>
+        <ListBox Name="listMob" HorizontalAlignment="Left" Height="184" Margin="188,41,0,0" VerticalAlignment="Top" Width="150" BorderThickness="2" BorderBrush="Black">
+            <ListBox.Effect>
+                <DropShadowEffect Color="DarkGray"/>
+            </ListBox.Effect>
+            <ListBox.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="3"/>
+                </Style>
+            </ListBox.Resources>
+        </ListBox>
+
+        <Label Content="Bestiarium" FontWeight="Bold" HorizontalAlignment="Left" Margin="352,10,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" Width="150" RenderTransformOrigin="-2.832,-3.34"/>
+        <ListBox Name="bestiariumList" HorizontalAlignment="Left" Height="272" Margin="352,74,0,0" VerticalAlignment="Top" Width="150" RenderTransformOrigin="1.12,0.469" SelectionChanged="bestiariumList_SelectionChanged" BorderThickness="2" BorderBrush="Black">
+            <ListBox.Effect>
+                <DropShadowEffect Color="DarkGray"/>
+            </ListBox.Effect>
+            <ListBox.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="3"/>
+                </Style>
+            </ListBox.Resources>
+        </ListBox>
+
+
+        <Button Content="Delete Location" Name="deleteLocation" Click="deleteLocation_Click" HorizontalAlignment="Left" Margin="22,230,0,0" VerticalAlignment="Top" Width="150" Height="30"/>
+        <Button Content="Remove Monster from Location" FontSize="10" Name="removeMonster" Click="removeMonster_Click" HorizontalAlignment="Left" Margin="188,230,0,0" VerticalAlignment="Top" Width="150" Height="30"/>
+        <Button Content="Add Location" Name="addLocation" Click="addLocation_Click" HorizontalAlignment="Left" Margin="22,316,0,0" VerticalAlignment="Top" Width="150" Height="30"/>
+        <Button Content="Add Monster" Name="addMonster" Click="addMonster_Click" HorizontalAlignment="Left" Margin="188,316,0,0" VerticalAlignment="Top" Width="150" Height="30"/>
+        <Button Content="Update Location" Name="updateLocation" Click="updateLocation_Click" HorizontalAlignment="Left" Margin="22,353,0,0" VerticalAlignment="Top" Width="150" Height="28"/>
+        <Button Content="Update Monster" Name="updateMonster" Click="updateMonster_Click" HorizontalAlignment="Left" Margin="188,353,0,0" VerticalAlignment="Top" Width="150" Height="28"/>
+        <Button Content="Add Monster to Location" Name="addMonsterToLocation" Click="addMonsterToLocation_Click" HorizontalAlignment="Left" Margin="352,41,0,0" VerticalAlignment="Top" Width="150" Height="28"/>
+        <Button Content="Delete Monster" Name="deleteMonster" Click="deleteMonster_Click" HorizontalAlignment="Left" Margin="352,353,0,0" VerticalAlignment="Top" Width="150" Height="28"/>
+        <TextBox Name="myTextBox" HorizontalAlignment="Left" Height="46" Margin="22,265,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="316">
+        </TextBox>
+
+    </Grid>
+</Window>

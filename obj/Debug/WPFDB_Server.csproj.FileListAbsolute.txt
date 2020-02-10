@@ -1,0 +1,28 @@
+C:\Users\B2B15\source\repos\WPFDB_Server\bin\Debug\WPFDB_Server.exe.config
+C:\Users\B2B15\source\repos\WPFDB_Server\bin\Debug\WPFDB_Server.exe
+C:\Users\B2B15\source\repos\WPFDB_Server\bin\Debug\WPFDB_Server.pdb
+C:\Users\B2B15\source\repos\WPFDB_Server\obj\Debug\WPFDB_Server.csprojAssemblyReference.cache
+C:\Users\B2B15\source\repos\WPFDB_Server\obj\Debug\MainWindow.g.cs
+C:\Users\B2B15\source\repos\WPFDB_Server\obj\Debug\App.g.cs
+C:\Users\B2B15\source\repos\WPFDB_Server\obj\Debug\WPFDB_Server_MarkupCompile.cache
+C:\Users\B2B15\source\repos\WPFDB_Server\obj\Debug\WPFDB_Server_MarkupCompile.lref
+C:\Users\B2B15\source\repos\WPFDB_Server\obj\Debug\MainWindow.baml
+C:\Users\B2B15\source\repos\WPFDB_Server\obj\Debug\WPFDB_Server.g.resources
+C:\Users\B2B15\source\repos\WPFDB_Server\obj\Debug\WPFDB_Server.Properties.Resources.resources
+C:\Users\B2B15\source\repos\WPFDB_Server\obj\Debug\WPFDB_Server.csproj.GenerateResource.cache
+C:\Users\B2B15\source\repos\WPFDB_Server\obj\Debug\WPFDB_Server.exe
+C:\Users\B2B15\source\repos\WPFDB_Server\obj\Debug\WPFDB_Server.pdb
+D:\Daten\OneDrive - Verein Sunshine for You\Desktop\Meine Projekte\C# Sharp Masterclass\WPFDB_Server - Monster Spawn Manager\bin\Debug\WPFDB_Server.exe.config
+D:\Daten\OneDrive - Verein Sunshine for You\Desktop\Meine Projekte\C# Sharp Masterclass\WPFDB_Server - Monster Spawn Manager\bin\Debug\WPFDB_Server.exe
+D:\Daten\OneDrive - Verein Sunshine for You\Desktop\Meine Projekte\C# Sharp Masterclass\WPFDB_Server - Monster Spawn Manager\bin\Debug\WPFDB_Server.pdb
+D:\Daten\OneDrive - Verein Sunshine for You\Desktop\Meine Projekte\C# Sharp Masterclass\WPFDB_Server - Monster Spawn Manager\obj\Debug\WPFDB_Server.csprojAssemblyReference.cache
+D:\Daten\OneDrive - Verein Sunshine for You\Desktop\Meine Projekte\C# Sharp Masterclass\WPFDB_Server - Monster Spawn Manager\obj\Debug\MainWindow.g.cs
+D:\Daten\OneDrive - Verein Sunshine for You\Desktop\Meine Projekte\C# Sharp Masterclass\WPFDB_Server - Monster Spawn Manager\obj\Debug\App.g.cs
+D:\Daten\OneDrive - Verein Sunshine for You\Desktop\Meine Projekte\C# Sharp Masterclass\WPFDB_Server - Monster Spawn Manager\obj\Debug\WPFDB_Server_MarkupCompile.cache
+D:\Daten\OneDrive - Verein Sunshine for You\Desktop\Meine Projekte\C# Sharp Masterclass\WPFDB_Server - Monster Spawn Manager\obj\Debug\WPFDB_Server_MarkupCompile.lref
+D:\Daten\OneDrive - Verein Sunshine for You\Desktop\Meine Projekte\C# Sharp Masterclass\WPFDB_Server - Monster Spawn Manager\obj\Debug\MainWindow.baml
+D:\Daten\OneDrive - Verein Sunshine for You\Desktop\Meine Projekte\C# Sharp Masterclass\WPFDB_Server - Monster Spawn Manager\obj\Debug\WPFDB_Server.g.resources
+D:\Daten\OneDrive - Verein Sunshine for You\Desktop\Meine Projekte\C# Sharp Masterclass\WPFDB_Server - Monster Spawn Manager\obj\Debug\WPFDB_Server.Properties.Resources.resources
+D:\Daten\OneDrive - Verein Sunshine for You\Desktop\Meine Projekte\C# Sharp Masterclass\WPFDB_Server - Monster Spawn Manager\obj\Debug\WPFDB_Server.csproj.GenerateResource.cache
+D:\Daten\OneDrive - Verein Sunshine for You\Desktop\Meine Projekte\C# Sharp Masterclass\WPFDB_Server - Monster Spawn Manager\obj\Debug\WPFDB_Server.exe
+D:\Daten\OneDrive - Verein Sunshine for You\Desktop\Meine Projekte\C# Sharp Masterclass\WPFDB_Server - Monster Spawn Manager\obj\Debug\WPFDB_Server.pdb
